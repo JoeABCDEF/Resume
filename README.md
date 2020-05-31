@@ -1,4 +1,4 @@
-# 前端开发工程师
+# 前端开发工程师 | 移动端开发工程师 
 * 期望薪资 8k
 ### 联系方式
 * 13001734127 (同微信)
@@ -11,12 +11,16 @@
 ## 教育背景
 * 2017-2020 淄博职业学院 软件技术 大专
 ## 技能描述
-* 熟悉使用 HTML5/CSS3/JavaScript 语言以及 ES5, ES6；
-* 熟悉应用 Vue/uniapp 框架及相关技术栈;
-* 熟悉使用 Element/iview/Ant Design 等组件库快速;
-* 了解小程序开发;
-* 了解 Sass, Stylus 等 CSS 预处理器;
-* 了解 Webpack 打包构建工具;
+* 熟练掌握 HTML5 标签和 CSS 运⽤用以及新增的属性进⾏页面重构；
+* 熟练掌握并会运用前端的基本框架和类库：jQuery、ECharts、Zepto 等；
+* 熟练运⽤响应式布局和弹性盒布局，利⽤ rem、px 和百分比进行移动端的布局；
+* 熟练运⽤ Vue 框架，擅⻓ Vue 全家桶 + ElementUI 进⾏项⽬的开发；
+* 熟练运⽤ Bootstrap，Layui，MUI 等前端框架的应用，能够快速实现⻚面的开发；
+* 熟练使⽤ VS Code 等开发工具；
+* 熟练使⽤ stylus 预编译，实现 CSS 的管理和维护；
+* 熟悉 ES6 语法糖；
+* 了解 Webpack 前端自动化构建工具以及 Git 代码托管工具；
+* 了解 小程序开发；
 * 使用过 Node(Express),工作用过 Java(Spring boot);
 * 自学过 Py( Flask )、Flutter、 Nuxt;
 ## 工作经验
